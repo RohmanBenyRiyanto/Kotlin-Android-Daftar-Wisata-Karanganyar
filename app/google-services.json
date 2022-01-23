@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957531696632",
+    "project_id": "dicodingandroidpemula",
+    "storage_bucket": "dicodingandroidpemula.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957531696632:android:59f2ab72866f673dd6fa0d",
+        "android_client_info": {
+          "package_name": "com.rohmanbeny.dicodingbeny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957531696632-kla8fds7mjurlfs0oskh3qlroug7j32q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe5Hx3jdJpMTfuJKplMADThS0eMo_Rn6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957531696632-kla8fds7mjurlfs0oskh3qlroug7j32q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

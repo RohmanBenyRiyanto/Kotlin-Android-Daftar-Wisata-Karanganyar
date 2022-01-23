@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DicodingBeny</string>
+    <string name="logosplash">This Is My Logo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="daftar_wisata">Daftar Wisata Di Karanganyar</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="my_name">Rohman Beny Riyanto</string>
+    <string name="my_email">rendyasw@gmail.com</string>
+</resources>
